@@ -10,7 +10,7 @@ using bower
 bower install material-design-icons-iconfont --save
 ```
 
-using bower 
+using npm
 ```
 npm install material-design-icons-iconfont --save
 ```
