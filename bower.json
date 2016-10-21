@@ -25,6 +25,7 @@
     "dist/fonts/iconjar-map.js",
     "dist/fonts/material-icons.css",
     "dist/material-design-icons.css",
+    "dist/material-design-icons.css.map",
     "dist/material-design-icons.scss"
   ],
   "license": "CC-BY-4.0",
