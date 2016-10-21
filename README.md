@@ -10,6 +10,7 @@ using npm
 npm install material-design-icons-iconfont --save
 ```
 
+---------------------
 
 This repository is a *fork* of the [original repository](https://github.com/google/material-design-icons) Google published.
 
