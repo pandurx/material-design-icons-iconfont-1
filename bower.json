@@ -14,6 +14,19 @@
     "material-design-icons-iconfont",
     "google"
   ],
+  "main":[
+    "dist/fonts/MaterialIcons-Regular.eot",
+    "dist/fonts/MaterialIcons-Regular.ijmap",
+    "dist/fonts/MaterialIcons-Regular.svg",
+    "dist/fonts/MaterialIcons-Regular.ttf",
+    "dist/fonts/MaterialIcons-Regular.woff",
+    "dist/fonts/MaterialIcons-Regular.woff2",
+    "dist/fonts/codepoints",
+    "dist/fonts/iconjar-map.js",
+    "dist/fonts/material-icons.css",
+    "dist/material-design-icons.css",
+    "dist/material-design-icons.scss"
+  ],
   "license": "CC-BY-4.0",
   "homepage": "http://google.com/design/spec"
 }
