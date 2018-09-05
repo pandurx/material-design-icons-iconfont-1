@@ -1,11 +1,11 @@
 {
-  "name": "material-design-icons-iconfont",
+  "name": "v-material-design-icons-pkg",
   "version": "3.0.3",
   "description": "Material Design icons by Google",
   "main": "dist/material-design-icons.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jossef/material-design-icons-iconfont"
+    "url": "https://github.com/pandurx/material-design-icons-iconfont-1"
   },
   "keywords": [
     "icons",
