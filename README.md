@@ -12,7 +12,7 @@ npm install material-design-icons-iconfont --save
 
 ---------------------
 
-This repository is a *fork* of the [original repository](https://github.com/google/material-design-icons) Google published.
+This repository is a *fork* of a *fork* of the [original repository](https://github.com/google/material-design-icons) Google published then made it developer-accessible by jossef [developer's repository](https://github.com/jossef/material-design-icons-iconfont).
 
 the only difference - It created to be **developer friendly** (add dependency in bower / npm as fast as possible)
 
